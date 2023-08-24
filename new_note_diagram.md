@@ -1,10 +1,17 @@
-[![](https://mermaid.ink/img/pako:eNq9VE1v2zAM_SuEzonTj5sPPW3oMPRjQHKbd2AlOlZrS55EpS2C_PfRlpG16yVpi_lkPVLk4yPFrdLekCpVpN-JnKYvFtcBu8qBfD0Gttr26Bjugn-MFN4aBNwMeLZMbvOLi4yXcPl1BQ1zH8vFInIylmKhY9FQG617sEVtF_SEXd8S9v3CeaaYQ6Fmu0GmfYYBzP9ziT9lKuHb6voKjNepI8fZy9Cby59Dr0PrxHwkQ24I5BLUtqX_QfD-Hfy-4waXOtieD6F5I22CYNcNg69hH2glgaYDRJYhiUBPpBNbt_43yzB4gqHkI9YNxeywvL2BOvhuPH2uNgYZRRvvjlPn5xYqeSaOh_FSpRzGibNSG8bnSs0EkdCUbWcnZ-fz0_lppWA3g6Io4NfHtcwiThJpbNs71A9QJycRvcsqBnKGQnaZXtEr2eCFbj9ulx8Q7ljC99L0mJvOHtCYzJEeR54Dtk8A6IxUYmwgPXofuBBeFre__q6t8zfeUQtGzVRHQV6fkWW6HZwqJVV201QYqjG1Mj6V24krJvbLZ6dVySHRTKV-GKBp96qyxjYKKnWwD9d5QY97evcH3gL9xg?type=png)](https://mermaid.live/edit#pako:eNq9VE1v2zAM_SuEzonTj5sPPW3oMPRjQHKbd2AlOlZrS55EpS2C_PfRlpG16yVpi_lkPVLk4yPFrdLekCpVpN-JnKYvFtcBu8qBfD0Gttr26Bjugn-MFN4aBNwMeLZMbvOLi4yXcPl1BQ1zH8vFInIylmKhY9FQG617sEVtF_SEXd8S9v3CeaaYQ6Fmu0GmfYYBzP9ziT9lKuHb6voKjNepI8fZy9Cby59Dr0PrxHwkQ24I5BLUtqX_QfD-Hfy-4waXOtieD6F5I22CYNcNg69hH2glgaYDRJYhiUBPpBNbt_43yzB4gqHkI9YNxeywvL2BOvhuPH2uNgYZRRvvjlPn5xYqeSaOh_FSpRzGibNSG8bnSs0EkdCUbWcnZ-fz0_lppWA3g6Io4NfHtcwiThJpbNs71A9QJycRvcsqBnKGQnaZXtEr2eCFbj9ulx8Q7ljC99L0mJvOHtCYzJEeR54Dtk8A6IxUYmwgPXofuBBeFre__q6t8zfeUQtGzVRHQV6fkWW6HZwqJVV201QYqjG1Mj6V24krJvbLZ6dVySHRTKV-GKBp96qyxjYKKnWwD9d5QY97evcH3gL9xg)
+[![](https://mermaid.ink/img/pako:eNq9VE1v2zAM_SuEzom9djcfetqwoVjbAclt3oGV6FipLXkSnbYI8t9HW06QtcCWfmA-SY8UH0mTb6u0N6QKFelXT07TJ4urgG3pSgfydRjYatuhY7gN_j5SeG4QcDPgoyWZJ1-YX1wkawHfbxZLqJm7WOR55N5YipmOWU1NtO7OZpXN6QHbriHsutwgY7aOfkrk2jNBsKuawVf78AUsazpw0QPpnikCC7jGDUYdbMfAHtCYEXV0D26IJNiBANAZCGRsID1654NLTLyo2W5QXuyLHMB0Pi7u8Pz0Ao9IDD2jSYZ9bUdMXz4vX0fyl0rmEv_Q0q_Lq29gvO5bcvyP_N6aXovWifmFGQ5_Uh5BZRv6HwmuX5HfpczfIs3fCWmeMN2RZePiNOTWrZ6yDHssGAofsa6nNbhc3FxDFXw73t63N0829NTu_NhCKarjeBgvVchlnDgrtWF8LNVMEAlNyXb-4fzj_Gx-VirYzSDLMvj59l7-oRQam-YW9R1UvZOIogdjFwM5QyG5TFukZqqlICNhRDC3A1upxNxOqRqqsG-kptLtxBV79otHp1XBoaeZ6ruhqklfVVFhEwUV3WAfrpIIj1q8-w1GC_Po?type=png)](https://mermaid.live/edit#pako:eNq9VE1v2zAM_SuEzom9djcfetqwoVjbAclt3oGV6FipLXkSnbYI8t9HW06QtcCWfmA-SY8UH0mTb6u0N6QKFelXT07TJ4urgG3pSgfydRjYatuhY7gN_j5SeG4QcDPgoyWZJ1-YX1wkawHfbxZLqJm7WOR55N5YipmOWU1NtO7OZpXN6QHbriHsutwgY7aOfkrk2jNBsKuawVf78AUsazpw0QPpnikCC7jGDUYdbMfAHtCYEXV0D26IJNiBANAZCGRsID1654NLTLyo2W5QXuyLHMB0Pi7u8Pz0Ao9IDD2jSYZ9bUdMXz4vX0fyl0rmEv_Q0q_Lq29gvO5bcvyP_N6aXovWifmFGQ5_Uh5BZRv6HwmuX5HfpczfIs3fCWmeMN2RZePiNOTWrZ6yDHssGAofsa6nNbhc3FxDFXw73t63N0829NTu_NhCKarjeBgvVchlnDgrtWF8LNVMEAlNyXb-4fzj_Gx-VirYzSDLMvj59l7-oRQam-YW9R1UvZOIogdjFwM5QyG5TFukZqqlICNhRDC3A1upxNxOqRqqsG-kptLtxBV79otHp1XBoaeZ6ruhqklfVVFhEwUV3WAfrpIIj1q8-w1GC_Po)
 sequenceDiagram
 
     participant browser
     participant server
 
-    browser->>server: GET https://studies.cs.helsinki.fi/exampleapp/notes
+   
+    browser ->>server: POST https://studies.cs.helsinki.fi/exampleapp/data.json
+    Note right of browser: The browser executes the javascript to add the new note to data.json and redirect to /notes
+    activate server
+    server ->>server: redirect https://studies.cs.helsinki.fi/exampleapp/notes
+    deactivate server
+
+     browser->>server: GET https://studies.cs.helsinki.fi/exampleapp/notes
     activate server
     server-->>browser: HTML document
     deactivate server
@@ -27,10 +34,3 @@ sequenceDiagram
     deactivate server
 
     Note right of browser: The browser executes the callback function that renders the notes
-
-    browser ->>server: POST https://studies.cs.helsinki.fi/exampleapp/data.json
-    Note right of browser: The browser executes the javascript to add the new note to data.json and redirect to /notes
-    activate server
-    server ->>server: redirect https://studies.cs.helsinki.fi/exampleapp/notes
-    server ->>browser: HTML document
-    deactivate server
